@@ -17,7 +17,10 @@ module FancyDance
       "Thank you, thank you. It was a pleasure to dance for you all."
     end
   end
+<<<<<<< HEAD
   
+=======
+>>>>>>> b937fb2cb5feb7eef580ca43d003c48cfb85ed37
 
   module ClassMethods
 
